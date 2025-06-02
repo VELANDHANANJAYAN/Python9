@@ -141,7 +141,7 @@ print(T)
  
 
 
-### EX: 9(d)TOEPLITZ MATRIX
+EX: 9(d)TOEPLITZ MATRIX
 ### Aim:
 To Write a Python Program to check whether the given matrix is Toeplitz Matrix.
 
